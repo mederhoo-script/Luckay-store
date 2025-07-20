@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Organic Avocado",
+      "price": 2.50,
+      "description": "Fresh organic avocados, perfect for salads and guacamole.",
+      "image": "https://example.com/images/avocado.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Almond Milk",
+      "price": 3.00,
+      "description": "Creamy almond milk, a great dairy alternative.",
+      "image": "https://example.com/images/almond_milk.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Quinoa",
+      "price": 4.00,
+      "description": "Nutritious quinoa, a perfect base for salads and bowls.",
+      "image": "https://example.com/images/quinoa.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chia Seeds",
+      "price": 5.00,
+      "description": "High in omega-3 fatty acids, perfect for smoothies and puddings.",
+      "image": "https://example.com/images/chia_seeds.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Organic Honey",
+      "price": 6.00,
+      "description": "Pure organic honey, great for sweetening and baking.",
+      "image": "https://example.com/images/honey.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Greek Yogurt",
+      "price": 2.75,
+      "description": "Creamy Greek yogurt, perfect for breakfast or snacks.",
+      "image": "https://example.com/images/greek_yogurt.jpg"
+    }
+  ]
+}
